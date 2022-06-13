@@ -1,0 +1,8 @@
+body{
+  margin: 0;
+  background-color: rgb(249, 253, 253);
+  font-family: sans-serif;
+}
+main{
+  display: flex;
+}

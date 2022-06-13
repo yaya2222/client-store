@@ -1,0 +1,42 @@
+.addToCart {
+  background-color: rgb(0, 200, 255);
+  color: white;
+  border-radius: 50px;
+  font-size: 20px;
+  border: none;
+  box-sizing: border-box;
+  height: 32px;
+  width: 120px;
+  margin: 0 auto;
+  margin-bottom: 8px;
+}
+
+.addToCart:active {
+  background: rgb(120, 201, 236);
+  -webkit-box-shadow: inset 0px 0px 5px #155f77;
+  -moz-box-shadow: inset 0px 0px 5px #155f77;
+  box-shadow: inset 0px 0px 5px #155f77;
+}
+
+.addAndDec {
+  background-color: rgb(0, 200, 255);
+  color: white;
+  border-radius: 50%;
+  font-size: 20px;
+  height: 32px;
+  width: 32px;
+  margin: 0 10px;
+  margin-bottom: 8px;
+  border: none;
+}
+
+.addAndDec:active {
+  background: rgb(120, 201, 236);
+  -webkit-box-shadow: inset 0px 0px 5px #155f77;
+  -moz-box-shadow: inset 0px 0px 5px #155f77;
+  box-shadow: inset 0px 0px 5px #155f77;
+}
+.unit {
+  font-size: 20px;
+  font-weight: bold;
+}

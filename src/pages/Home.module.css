@@ -1,0 +1,38 @@
+
+.bodyMain{
+    width: 70vw;
+    text-align: center;
+}
+
+.h2{
+    font-size: 50px;
+}
+
+.cat{
+    display: flex;
+    /* height: 30%; */
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.navLink{
+    box-sizing: border-box;
+    height: 150px;
+    width: 45%;
+    border: 1px solid black;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    text-decoration: none;
+    justify-content: center;
+    color: black;
+    background-color: rgb(169, 169, 191);
+    margin: 10px;
+    border-radius: 30px;
+}
+
+/* .span{
+    margin: auto;
+} */

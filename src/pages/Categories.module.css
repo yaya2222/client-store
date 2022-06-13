@@ -1,0 +1,8 @@
+
+.items{
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    justify-content:space-evenly;
+    width: 900px;
+}

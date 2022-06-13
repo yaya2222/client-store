@@ -1,0 +1,27 @@
+
+.pro{
+    margin: auto;
+    width: 500px;
+    text-align: center;
+    padding: 40px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+h3{
+font-size: 28px;
+margin: 10px;
+}
+
+.image{
+    width: 200px;
+    height: 200px;
+}
+
+.description{
+    padding: 10px;
+    word-spacing:2px;
+    margin: auto;
+}
